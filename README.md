@@ -11,27 +11,27 @@ Lightweight nvim client with only the most essential plugins for a functional wo
 ### Project Structure
 
 ```bash
- .
-├──  init.lua
-├──  lazy-lock.json
-└──  lua
-    ├──  config
-    │   ├──  keymaps.lua
-    │   ├──  lazy.lua
-    │   └──  options.lua
-    └──  plugins
-        ├──  blink-cmp.lua
-        ├──  conform.lua
-        ├──  dressing.lua
-        ├──  fzflua.lua
-        ├──  kanagawa.lua
-        ├──  lsp.lua
-        ├──  neotree.lua
-        ├──  project.lua
-        ├──  rustacean.lua
-        ├──  statusline.lua
-        ├──  treesitter.lua
-        └──  which-key.lua
+.
+├── init.lua
+├── lazy-lock.json
+└── lua
+    ├── config
+    │   ├── keymaps.lua
+    │   ├── lazy.lua
+    │   └── options.lua
+    └── plugins
+        ├── blink-cmp.lua
+        ├── conform.lua
+        ├── dressing.lua
+        ├── fzflua.lua
+        ├── kanagawa.lua
+        ├── lsp.lua
+        ├── neotree.lua
+        ├── project.lua
+        ├── rustacean.lua
+        ├── statusline.lua
+        ├── treesitter.lua
+        └── which-key.lua
 ```
 
 ---
