@@ -5,7 +5,6 @@
 ## Summary
 
 Lightweight nvim client with only the most essential plugins for a functional workflow.
-Future updates to this repo will be under the `Rice` branch for the sake of keeping `main` clean.
 
 ---
 
