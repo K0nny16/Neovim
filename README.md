@@ -24,6 +24,7 @@ Lightweight nvim client with only the most essential plugins for a functional wo
         ├── conform.lua
         ├── dressing.lua
         ├── fzflua.lua
+        ├── autopairs   
         ├── kanagawa.lua
         ├── lsp.lua
         ├── neotree.lua
@@ -53,5 +54,6 @@ Lightweight nvim client with only the most essential plugins for a functional wo
 - **statusline**: Adds a statusline (lualine) that shows current mode,file and git status.
 - **treesitter**: Well for obvious reasons.
 - **which-key**: Nice cus im a noob and have alot of binds.
+-- **autopairs**: Auto pairs "" and stuff.
 
 ---
